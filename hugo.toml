@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'My Hugo Sandbox'
+theme = 'breadcrumbs'
 
 [menus]
   [[menus.main]]
