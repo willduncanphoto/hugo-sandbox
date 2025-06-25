@@ -1,0 +1,9 @@
+name = "hugo-sandbox"
+compatibility_date = "2025-06-25"
+
+[build]
+command = "./build.sh"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
