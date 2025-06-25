@@ -8,9 +8,9 @@
 
 main() {
 
-  HUGO_VERSION = 0.147.8
+  HUGO_VERSION=0.147.7
 
-  export TZ = America/Los_Angeles
+  export TZ=America/Los_Angeles
 
   # Install Hugo
   echo "Installing Hugo v${HUGO_VERSION}..."
