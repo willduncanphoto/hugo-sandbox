@@ -1,6 +1,11 @@
 name = 'hugo-sandbox'
 compatibility_date = "2025-06-25"
 
+
+routes = [
+  { pattern = "hugo-sandbox.willduncan.com", custom_domain = true }
+]
+
 [build]
 command = "./build.sh"
 
