@@ -1,4 +1,4 @@
-baseURL = 'https://sandbox.willduncan.com/'
+baseURL = 'https://hugo-sandbox.willduncan.com/'
 languageCode = 'en-US'
 title = 'My Hugo Sandbox'
 theme = 'breadcrumbs'
