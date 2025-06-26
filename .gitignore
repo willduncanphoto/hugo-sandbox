@@ -1,0 +1,23 @@
+# Custom
+/content/**/*.jpg
+
+# Hugo folders
+/public
+/resources
+
+# Hugo lock files
+.hugo_build.lock
+package-lock.json
+package.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Dev
+node_modules/
